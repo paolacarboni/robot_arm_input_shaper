@@ -51,9 +51,9 @@ Case of nonlinear vibrations:
 
 Contributors: 
 
-Paola Carboni
+**Paola Carboni**
 
-Elisa Scandiuzzi 
+**Elisa Scandiuzzi** 
 
 References: 
 
