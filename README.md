@@ -27,7 +27,7 @@ Case of nonlinear vibrations:
 <table align="center">
   <tr>
     <td align="center">
-      <img src="nonlinear_response_P_controller.png" width="350" /><br/>
+      <img src="video_no_shaper_nl.gif" width="350" /><br/>
       <sub> Regulation task, baseline </sub>
     </td>
     <td align="center">
@@ -41,10 +41,10 @@ Case of nonlinear vibrations:
 <table align="center">
   <tr>
     <td align="center">
-      <img src="nonlinear_response_PD_controller.png" width="350" /><br/>
+      <img src="nonlinear_response_P_controller.png" width="350" /><br/>
     </td>
     <td align="center">
-      <img src="video_shaper_nl.gif" width="350" /><br/>
+      <img src="nonlinear_response_PD_controller.png" width="350" /><br/>
     </td>
   </tr>
 </table>
