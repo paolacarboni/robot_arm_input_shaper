@@ -48,3 +48,16 @@ Case of nonlinear vibrations:
     </td>
   </tr>
 </table>
+
+Contributors: 
+
+Paola Carboni
+Elisa Scandiuzzi 
+
+References: 
+
+[1] N. C. Singer and W. P. Seering. Preshaping Command Inputs to Reduce System Vibration.
+Journal of Dynamic Systems, Measurement, and Control, 112(1):76–82, 03 1990.
+[2] Neil C. Singer. Residual vibration reduction in computer controlled machines. PhD thesis,
+MIT Artificial Intelligence Laboratory, 1988.
+
