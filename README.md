@@ -20,7 +20,7 @@ Case of linear vibrations:
 
 <p align="center">
 <img src="linear_response_P_controller.png" width="50%" alt="System diagram" />
-<\p>
+</p>
 
 Case of nonlinear vibrations: 
 
