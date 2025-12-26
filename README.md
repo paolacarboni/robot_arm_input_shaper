@@ -6,3 +6,4 @@ Shaping Technique for vibration reduction proposed by Singer and Seering.
 A one-link flexible arm is considered for linear and non-linear vibration effects. 
 
 
+video/impulse_no_shaper.mp4
