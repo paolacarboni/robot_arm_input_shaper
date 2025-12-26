@@ -17,8 +17,10 @@ A **one-link flexible arm** is considered, accounting for both **linear and nonl
     </td>
   </tr>
 </table>
-<img src="linear_response_P_controller.png" width="50%" alt="System diagram" />
 
+<p align="center">
+<img src="linear_response_P_controller.png" width="50%" alt="System diagram" />
+<\p>
 
 Case of nonlinear vibrations: 
 
