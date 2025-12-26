@@ -5,10 +5,22 @@ Shaping Technique for vibration reduction proposed by Singer and Seering.
 
 A one-link flexible arm is considered for linear and non-linear vibration effects. 
 
-![Regulation Shaper](regulation_shaper.gif)
-
 
 <p align="center">
   <img src="regulation_no_shaper.gif" width="45%" />
   <img src="regulation_shaper.gif" width="45%" />
 </p>
+
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="regulation_no_shaper.gif" width="350" /><br/>
+      <sub> Regulation task, baseline </sub>
+    </td>
+    <td align="center">
+      <img src="other_demo.gif" width="350" /><br/>
+      <sub>Regulation task with input shaping </sub>
+    </td>
+  </tr>
+</table>
