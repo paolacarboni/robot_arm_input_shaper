@@ -18,7 +18,7 @@ A **one-link flexible arm** is considered, accounting for both **linear and nonl
   </tr>
 </table>
 
-Case of non linear vibrations: 
+Case of nonlinear vibrations: 
 
 <table align="center">
   <tr>
