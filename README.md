@@ -1,16 +1,9 @@
-Reducing undesired vibrations is a fundamental aspect for effective control of robot manipulators.
+Reducing undesired vibrations is essential for the effective control of robotic manipulators.
 
-The project consists in the implementation of the Input
-Shaping Technique for vibration reduction proposed by Singer and Seering.
+This project implements the **Input Shaping Technique** for vibration reduction, as proposed by **Singer and Seering**. The method suppresses residual vibrations by reshaping the reference command, at the cost of an increased execution time.
 
-A one-link flexible arm is considered for linear and non-linear vibration effects. 
+A **one-link flexible arm** is considered, accounting for both **linear and nonlinear** vibration effects.
 
-
-<p align="center">
-  <img src="regulation_no_shaper.gif" width="45%" />
-  <img src="regulation_shaper.gif" width="45%" />
-</p>
-Case of linear vibrations: 
 
 <table align="center">
   <tr>
