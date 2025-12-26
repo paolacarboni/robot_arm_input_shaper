@@ -4,7 +4,7 @@ This project implements the **Input Shaping Technique** for vibration reduction,
 
 A **one-link flexible arm** is considered, accounting for both **linear and nonlinear** vibration effects.
 
-
+Case of linear vibrations:
 <table align="center">
   <tr>
     <td align="center">
@@ -27,12 +27,24 @@ Case of nonlinear vibrations:
 <table align="center">
   <tr>
     <td align="center">
-      <img src="video_no_shaper_nl.gif" width="350" /><br/>
+      <img src="nonlinear_response_P_controller.png" width="350" /><br/>
       <sub> Regulation task, baseline </sub>
     </td>
     <td align="center">
       <img src="video_shaper_nl.gif" width="350" /><br/>
       <sub>Regulation task with input shaping </sub>
+    </td>
+  </tr>
+</table>
+
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="nonlinear_response_PD_controller.png" width="350" /><br/>
+    </td>
+    <td align="center">
+      <img src="video_shaper_nl.gif" width="350" /><br/>
     </td>
   </tr>
 </table>
