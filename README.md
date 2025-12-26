@@ -19,7 +19,7 @@ A one-link flexible arm is considered for linear and non-linear vibration effect
       <sub> Regulation task, baseline </sub>
     </td>
     <td align="center">
-      <img src="other_demo.gif" width="350" /><br/>
+      <img src="regulation_shaper.gif" width="350" /><br/>
       <sub>Regulation task with input shaping </sub>
     </td>
   </tr>
